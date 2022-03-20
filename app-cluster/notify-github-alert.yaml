@@ -2,7 +2,7 @@
 apiVersion: notification.toolkit.fluxcd.io/v1beta1
 kind: Alert
 metadata:
-  name: realtimeapp
+  name: realtimeapp-github
   namespace: flux-system
 spec:
   eventSeverity: info
