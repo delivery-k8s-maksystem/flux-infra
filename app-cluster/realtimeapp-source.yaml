@@ -8,5 +8,9 @@ spec:
   interval: 30s
   ref:
     branch: master
+<<<<<<< HEAD
   url: https://github.com/delivery-k8s-maksystem/realtimeapp-infra.git
+=======
+  url: https://github.com/delivery-k8s-maksystem/realtimeapp-infra
+>>>>>>> 77a143c253b7aaddac146a301590a050ef0eb8d1
 
