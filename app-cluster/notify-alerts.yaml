@@ -1,7 +1,7 @@
 apiVersion: notification.toolkit.fluxcd.io/v1beta1
 kind: Alert
 metadata:
-  name: realtimeapp1
+  name: realtimeapp
   namespace: flux-system
 spec:
   providerRef:
